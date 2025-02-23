@@ -75,4 +75,6 @@ The system follows the **Model-View-Controller (MVC)** architecture:
 ### Steps to Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/inventory-management-system.git
+   git clone 
+2. Open the project in NetBeans.
+3. Run the application.
